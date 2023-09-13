@@ -2,7 +2,6 @@
 using UserManagementAPI.DTO;
 using UserManagementAPI.Services.UserService;
 
-
 namespace UserManagementAPI.Controllers
 {
     [Route("api/[controller]")]
